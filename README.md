@@ -1,5 +1,6 @@
 # AirbnbClone 
-airbnbclone in rails is project that help you take startup in airbnb for X 
+We are going to try and turn this airbnbclone into a new project that will help us learn how to build locavore
+
 
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/eGh9kSHrjYZvCyyskoDq6Qwf/krissnawat/airbnbclone-in-ruby-on-rails'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/eGh9kSHrjYZvCyyskoDq6Qwf/krissnawat/airbnbclone-in-ruby-on-rails.svg' />
